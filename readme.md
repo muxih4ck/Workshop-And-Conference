@@ -35,8 +35,8 @@
 
 ## 2016y4m1d
 
-+ [传说中的python GIL]()
-+ [武汉开发者峰会趣闻]()
++ [传说中的python GIL](https://github.com/muxih4ck/share/blob/master/ppts/GIL.pdf)
++ [🈳武汉开发者峰会趣闻]()
 + [爬虫框架小抓抓粉墨登场!](https://github.com/wanzifa/CuteScrapy)
 
 ## 2016y3m25d
@@ -44,10 +44,10 @@
 + [Python类库导入机制](https://neo1218.github.io/python-import/)
 
 ## 2016y3m18d
-+ [并发的实现与僵尸进程的狗带]()
++ [并发的实现与僵尸进程的狗带](https://github.com/muxih4ck/share/blob/master/wanblog/web.html)
 + [浅谈Python特性和设计模式](https://neo1218.github.io/structure/)
 
 ## 2016y3m11d
 
-+ [python填坑之为单例模式的实现而开的脑洞]()
++ [python填坑之为单例模式的实现而开的脑洞](https://github.com/muxih4ck/share/blob/master/wanblog/python.html)
 + [投票应用(代码)](https://github.com/kasheemlew/Votes)
