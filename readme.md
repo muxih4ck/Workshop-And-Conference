@@ -16,7 +16,7 @@
 ## 2016y10m15d
 
 + [docker用的真叫爽之docker在华师匣子中的应用](https://github.com/restccnu/restccnu)
-+ [🈳初学Node的小心得之Node是干嘛的]()
++ [初学Node的小心得之Node是干嘛的](https://github.com/muxih4ck/share/blob/master/ppts/node.pdf)
 + [Python程序运行原理](http://kasheemlew.github.io/2016/08/18/python-theory/)
 
 ## 2016y9m26d
