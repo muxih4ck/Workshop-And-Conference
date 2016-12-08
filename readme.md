@@ -1,5 +1,16 @@
 # 木犀后台组分享
 
+## 2016y12m
+
++ [面向对象](http://kasheemlew.github.io/2016/12/07/oop/)
++ 关于技术积累
+
+## 2016y11m27d
+
++ 新人答疑
++ 闲聊谈心
++ 出去吃饭
+
 ## 2016y11m19d
 
 + [python asyncio, generator的简单demo](https://github.com/neo1218/ngx)
