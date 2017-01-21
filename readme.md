@@ -1,5 +1,10 @@
 # 木犀后台组分享
 
+## 2017y1m
+
++ [0120答疑视频](https://www.youtube.com/watch?v=h-8YZ4KLVMs)
++ [面向新人的Flask分享](https://hk.tower.im/projects/8b4990dc9e324866a0357c7a0dda0d5d/uploads/439b8b7ac9ab4fb79c3472fb700cc55b/?version=1)
+
 ## 2016y12m
 
 + [面向对象](http://kasheemlew.github.io/2016/12/07/oop/)
