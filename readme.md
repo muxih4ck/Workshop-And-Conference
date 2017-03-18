@@ -1,5 +1,11 @@
 # 木犀后台组分享
 
+## 2017y3m18d
+
++ [Thread Synchronization Mechanisms in Python](http://effbot.org/zone/thread-synchronization.htm)
++ [线性代数的本质 - 系列合集](http://www.bilibili.com/video/av6731067/?from=search&seid=2548618954407150789)
++ [Math ∩ Programming](https://jeremykun.com)
+
 ## 2017y1m
 
 + [0120答疑视频](https://www.youtube.com/watch?v=h-8YZ4KLVMs)
