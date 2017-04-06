@@ -1,5 +1,10 @@
 # 木犀后台组分享
 
+## 2017y4m3d
+
+  - [Shell脚本编程](https://github.com/qinjx/30min_guides/blob/master/shell.md)
+  - [经典排序算法](http://kasheemlew.github.io/2017/03/30/sort-algorithm/)
+
 ## 2017y3m18d
 
 + [Thread Synchronization Mechanisms in Python](http://effbot.org/zone/thread-synchronization.htm)
