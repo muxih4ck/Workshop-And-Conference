@@ -1,5 +1,13 @@
 # 木犀后台组分享
 
+## 2017y11d24
+
++ [C语言分享](https://yuyilei.github.io/2017/11/23/C-share/)
+
+## 2017y4d28
+
++ [Refactoring Python](Refactoring Python)
+
 ## 2017y4m3d
 
 + [Shell脚本编程](https://github.com/qinjx/30min_guides/blob/master/shell.md)
