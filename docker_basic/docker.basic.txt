@@ -1,0 +1,34 @@
+学习docker 
+１．官方文档
+２．Docker容器与容器云
+
+核心概念
+1.Image 一个只读模板,创建容器的基础
+2.Container 轻量级的沙箱，从镜像创建的容器运行实例
+3.Repository,Registry 仓库和仓库注册服务器(docker hub,aliyun,daocloud)
+
+安装
+。。。
+
+基本配置
+１．配置特权用户：将当前用户加入安装中自动创建的docker用户组
+$ sudo usermod -aG docker USER_NAME
+２．加速器配置  daocloud aliyun
+http://www.daocloud.io/mirror
+curl -sSL https://get.daocloud.io/daotools/set_mirror.sh | sh -s http://b4b13b1a.m.daocloud.io
+https://cr.console.aliyun.com/?spm=5176.166170.863063.btn1cr3.132b217fePezlv#/accelerator
+
+基本操作
+docker命令结构图
+Docker 环境信息　info,version
+容器生命周期管理　create,exec,kill,pause,restart,rm,run,start,stop,unparse
+镜像仓库管理　login,logout,pull,push,search
+镜像管理　build,images,import,load,rmi,save,tag,commit
+容器运维操作　attach,export,inspect,port,ps,rename,stats,top,wait,cp,diff,update
+容器资源管理　volume,network
+系统日志信息　events,history,logs
+
+Dockerfile
+
+远程构建
+https://cr.console.aliyun.com/?spm=5176.166170.863063.btn1cr3.132b217fePezlv#/dockerImage/cn-shenzhen/andrewpqc/andrew/detail
